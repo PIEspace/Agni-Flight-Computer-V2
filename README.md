@@ -3,3 +3,6 @@ Hi, this is Agni Flight Computer Version 2. This flight computer is designed onl
 
 
 ![Image](https://github.com/user-attachments/assets/806f6656-7732-4c62-aef4-8b691b7bf2f5)
+
+
+![Image](https://github.com/user-attachments/assets/e2ef9f01-2d2e-4c77-a882-bb957035c3e4)
